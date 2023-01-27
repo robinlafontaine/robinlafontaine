@@ -12,7 +12,7 @@
 - 👨🏻‍💻 I'm currently working on my academic and personal projects  
   
 
-- ⚡ Fun fact: I use tabs over spaces (who uses spaces ?)  
+- ⚡ Fun fact: I have too many private repos  
   
 
 <br/>  
