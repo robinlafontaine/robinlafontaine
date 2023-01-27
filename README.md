@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Robin, a Computer Science student 👨🏻‍💻 studying Cybersecurity 🔐.</div>  
+### <div align="center">Hi! I'm Robin, a Computer Science student 👨🏻‍💻 studying Cybersecurity 🔐.</div>  
   
 
 - 🎓 I’m currently studying in engineering school  
