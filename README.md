@@ -3,7 +3,7 @@
 </div>  
 
 ## <div align="center">Hi there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></div> 
-### <div align="center">I'm Robin, a Computer Science student 👨🏻‍💻 studying Cybersecurity 🔐.</div>  
+### <div align="center">I'm Robin, a Computer Science student 👨🏻‍💻 studying Cybersecurity 🔐.</div><br/> 
   
 
 - 🎓 I’m currently studying in engineering school  
