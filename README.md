@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif" align="center" style="width: 100%" />
+<img src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif" align="center" style="width: 100%" /><br>
 ## Hi there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </div>  
 
